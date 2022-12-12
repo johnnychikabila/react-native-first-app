@@ -5,7 +5,7 @@
 Please use your smartphone camera.
 or click here:
 
-[Demo](exp://exp.host/@superivaan/react-native-first-app?release-channel=default).
+<button src='exp://exp.host/@superivaan/react-native-first-app?release-channel=default'>Here</button>
 
 etc. Yes, you need instal the Expo app, but don't worry, it takes almost nothing of your memory. 
 
