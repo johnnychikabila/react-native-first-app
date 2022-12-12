@@ -4,6 +4,10 @@
 
 Please use your smartphone camera.
 or click [here](exp://exp.host/@superivaan/react-native-first-app?release-channel=default)
+
+[Demo](https://johnnychikabila.github.io/recipes-project/).
+
 etc. Yes, you need instal the Expo app, but don't worry, it takes almost nothing of your memory. 
+
 
 Thank you for watching.
